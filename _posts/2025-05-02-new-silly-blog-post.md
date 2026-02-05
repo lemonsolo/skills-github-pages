@@ -1,5 +1,5 @@
 ---
-title: "new-silly-blog"
+title: "new-silly-blog-post"
 date: 2025-05-02
 ---
 
